@@ -1,6 +1,5 @@
 {
-  "issuer": "https://fake-idp.radishnutrition.com",
-  "jwks_uri": "https://fake-idp.herradishnutritionbiz.com/keys.json",
-  "authorization_endpoint": "https://fake-idp.radishnutrition.com/auth",
-  "token_endpoint": "https://fake-idp.radishnutrition.com/token"
+  "entityId": "verify.radishnutrition.com",
+  "signingCertificate": [],
+  "serviceUrl": "https://www.google.com/hosted/verify.radishnutrition.com"
 }
